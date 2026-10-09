@@ -6,3 +6,6 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 https://exif.tools/
 Explore photos, PDFs, documents, and other files with a free EXIF and metadata viewer. Discover camera settings, locations, document details, and more—all in your browser.
+
+
+https://ampedsoftware.com/authenticate
