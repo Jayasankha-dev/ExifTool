@@ -1,0 +1,7 @@
+Tool	Best For	Price
+MediaInfo -	A user-friendly GUI tool for quickly viewing technical video and audio metadata.	Free (Open Source)
+ffprobe   -	A powerful command-line tool for scripting and automating video metadata analysis.	Free (Open Source)
+CoFFEE	  - A specialized academic tool for deep analysis of H.264 video compression artifacts.	Free (Open Source)
+Deepware	- A browser-based and API tool for detecting deepfake videos with good accuracy.	Freemium
+Bio-ID	  - A commercial browser-based tool that is currently the most accurate deepfake detector.	Commercial
+Autopsy	  - A full digital forensics platform for recovering and analyzing media from disk images.	Free (Open Source)
